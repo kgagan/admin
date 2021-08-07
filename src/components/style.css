@@ -1,0 +1,29 @@
+
+.blue{
+background-color: #007575;
+}
+.bluecolor{
+color: #007575;
+}
+.gray{
+background-color: gray;
+}
+table td{
+	border: 1px solid black !important;
+	padding: 0px !important;
+}
+
+table th{
+	border: 1px solid black !important;
+	padding: 0px !important;
+}
+ul{
+	border: 1px solid black !important;
+}
+li:nth-child(even){
+	border-bottom: 1px solid blue !important;
+}
+
+li:nth-child(odd){
+	border-bottom: 1px solid black !important;
+}
